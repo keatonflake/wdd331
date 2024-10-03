@@ -1,0 +1,15 @@
+/* fieldset + fieldset {
+  color: blue;
+} */
+
+/* fieldset:not(:first-of-type) {
+  color: red;
+} */
+
+input:invalid {
+  color: red;
+}
+
+li:nth-child(n + 6) {
+  color: green;
+}
